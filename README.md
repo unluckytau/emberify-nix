@@ -1,2 +1,2 @@
-# emberify-nix
-Emberify-CLI in nix-shell flake.
+# <p align="center"> Emberify on Nix-Shell. </p>
+
