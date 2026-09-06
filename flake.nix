@@ -42,7 +42,7 @@
 
             if [ ! -x "$PIPX_BIN_DIR/emberify" ]; then
               echo "Installing emberify with pipx..."
-              pipx install "git+https://github.com/ember-theme/emberify.git"
+              pipx install emberify
             fi
             echo "Shell Active!"
           '';
